@@ -28,3 +28,5 @@ O Terminus é um emulador de terminal para macOS baseado na biblioteca [SwiftTer
 ![image.png](images/image003.png)
 
 ![image.png](images/image004.png)
+
+![image.png](images/image005.png)
