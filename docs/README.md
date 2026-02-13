@@ -15,9 +15,11 @@ O Terminus é um emulador de terminal para macOS baseado na biblioteca [SwiftTer
 
 ### Atalhos
 
-- `⌘D` dive o terminal ativo verticalmente
-- `⌘⇧D` divide o terminal ativo horizontalmente
-- `⌘⌃W` fecha o painel ativo
+| Atalho | Descrição |
+|--------|------------|
+| `⌘D` | Divide o terminal ativo verticalmente |
+| `⌘⇧D` | Divide o terminal ativo horizontalmente |
+| `⌘⌃W` | Fecha o painel ativo |
 
 ### Screenshots
 
