@@ -15,7 +15,7 @@ Um emulador de terminal para macOS baseado na biblioteca [SwiftTerm](https://git
 ### Atalhos
 
 | Atalho | Descrição |
-|--------|------------|
+|:------:|------------|
 | `⌘D` | Divide o terminal ativo verticalmente |
 | `⌘⇧D` | Divide o terminal ativo horizontalmente |
 | `⌘⌃W` | Fecha o painel ativo |
