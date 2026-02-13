@@ -1,6 +1,6 @@
 # Terminus
 
-O Terminus é um emulador de terminal para macOS baseado na biblioteca [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm).
+Um emulador de terminal para macOS baseado na biblioteca [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm).
 
 ### Pre-requisitos
 
@@ -8,10 +8,9 @@ O Terminus é um emulador de terminal para macOS baseado na biblioteca [SwiftTer
 
 ### Recursos
 
-- Emulação Xterm
-- Múltiplas abas
-- Split terminal
-- Cadastro de sessões SSH
+- Multitab - execute múltiplas abas do terminal, incluindo sessões remotas (SSH).
+- Split terminal - use os atalhos `⌘D` e `⌘⇧D` para dividir uma sessão local ou remota (SSH).
+- Cadastro de Hosts SSH - cadastre Hosts SSH para fácil acesso.
 
 ### Atalhos
 
